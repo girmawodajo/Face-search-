@@ -1,0 +1,7 @@
+{
+  "name": "VisionLink Face Search",
+  "description": "An advanced AI-powered face search application that uses multimodal vision and Google Search grounding to find information and similar occurrences of faces across the web.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
